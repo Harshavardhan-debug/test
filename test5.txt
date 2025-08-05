@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "today is 05/08/2025"
